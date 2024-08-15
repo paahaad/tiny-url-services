@@ -1,0 +1,4 @@
+- [ ] Create Dockerfile for go-service and postgress
+- [ ] Add bussinuess logic to short the url
+- [ ] Add Bussiness logic to resolve the url
+- [ ] add redis for cashe
